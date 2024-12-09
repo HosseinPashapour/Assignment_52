@@ -13,7 +13,7 @@
 
 
 
-# RESULTS 
+# Results
 these are test accuracy results :
 We see that , in complex datasets like Cifar10 or Cifar100 , which contains more detailed and diverse images , using DeepLearning gives more test accuracy compared with MLP . 
 
